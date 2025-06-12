@@ -45,6 +45,10 @@ https://support.babylonwaves.com/overview/which-libraries-are-supported
 - Alphabetically and curated articulation list
 - Instant download after purchase
 
+## Demo Version
+
+You can download a demo version of Art Conductor here: https://github.com/babylonwaves/art-conductor/tree/main/demo-version/
+
 
 
 ## 📦 What's Included

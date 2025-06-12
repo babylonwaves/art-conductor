@@ -4,6 +4,10 @@ Public Babylonwaves Art Conductor Content List Repository
 
 # Art Conductor Articulation switching presets
 
+Art Conductor is a collection of articulation switching presets for all major DAWs. The presets make it easy to control a sampler instrument, especially orchestral instruments, perfectly. They allow you to work faster and get better results by using different articulation depending on how you want your instrument sound.
+Art Conductor is a one stop solution, supporting more than 1000 commercial sample libraries. All you need to do is to load a preset (a Cubase expression map, or a Logic articulation set etc.) and the corresponding instrument. THen you assign articulations to your melody and the DAW automatically selects the correct playing technique when you play back your melody.
+
+
 This repository contains a full list of all sample libraries supported by Art Conductor
 
 

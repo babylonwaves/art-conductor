@@ -7,7 +7,7 @@ Public Babylonwaves Art Conductor Content List Repository
 This repository contains a full list of all sample libraries supported by Art Conductor
 
 
-## 🧩 Compatibility
+## 🧩 Compatible with the following DAWs:
 
 - [Apple Logic Articulation Sets](https://www.babylonwaves.com/logic)
 - [Bandlab Cakewalk Articulation Maps](https://www.babylonwaves.com/cakewalk)

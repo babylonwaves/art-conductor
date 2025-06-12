@@ -1,2 +1,2 @@
 # art-conductor
-Public Babylonwaves Art Conductor Content Repository
+Public Babylonwaves Art Conductor Content List Repository

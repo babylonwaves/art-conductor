@@ -13,6 +13,8 @@ This repository contains a full list of all sample libraries supported by Art Co
 
 ## 🧩 Compatible with the following DAWs:
 
+See website for details:
+
 - [Apple Logic Articulation Sets](https://www.babylonwaves.com/logic)
 - [Bandlab Cakewalk Articulation Maps](https://www.babylonwaves.com/cakewalk)
 - [Motu Digital Performer Articulation Maps](https://www.babylonwaves.com/digital-performer)

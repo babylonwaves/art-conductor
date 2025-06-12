@@ -37,7 +37,7 @@ https://support.babylonwaves.com/overview/which-libraries-are-supported
 
 - These maps are hand-built and tested with each sample library
 - Unified key switches for the core articulations
-- Low costs and free feature updates. Only about 0.10€/$ per Library
+- Low costs and free feature updates
 - Alphabetically and curated articulation list
 - Instant download after purchase
 

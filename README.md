@@ -9,13 +9,14 @@ This repository contains a full list of all sample libraries supported by Art Co
 
 ## 🧩 Compatibility
 
-[Apple Logic Articulation Sets](https://babylonwaves.com/logic)
-[Steinberg Cubase Expression Maps](https://babylonwaves.com/cubase)
-[Steinberg Nuendo Expression Maps](https://babylonwaves.com/cubase)
-[Motu Digital Performer Articulation Maps](https://babylonwaves.com/digital-performer)
-[PreSonus Studio One Sound Variations](https://babylonwaves.com/studio-one)
-[Bandlab Cakewalk Articulation Maps](https://babylonwaves.com/cakewalk)
-[Steinberg Dorico Expression Maps](https://babylonwaves.com/dorico)
+- [Apple Logic Articulation Sets](https://babylonwaves.com/logic)
+- [Bandlab Cakewalk Articulation Maps](https://babylonwaves.com/cakewalk)
+- [Motu Digital Performer Articulation Maps](https://babylonwaves.com/digital-performer)
+- [PreSonus Studio One Sound Variations](https://babylonwaves.com/studio-one)
+- [Steinberg Cubase Expression Maps](https://babylonwaves.com/cubase)
+- [Steinberg Dorico Expression Maps](https://babylonwaves.com/dorico) - Coming in Summer 2025
+- [Steinberg Nuendo Expression Maps](https://babylonwaves.com/cubase)
+
 
 
 ## ✅ Supported Libraries

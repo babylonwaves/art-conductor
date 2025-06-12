@@ -22,7 +22,14 @@ This repository contains a full list of all sample libraries supported by Art Co
 ## ✅ Supported Libraries
 
 
-📂 Full library list available in libraries.json
+📂 Full library list for Logic Articulation Sets available in: Art-Conductor-List-Of-Libraries-Apple-Logic-Articulation-Sets.json
+📂 Full library list for Cakewalk Articulation Maps available in: Art-Conductor-List-Of-Libraries-Bandlab-Cakewalk-Articulation-Maps.json
+📂 Full library list for Digital Performer Articulation Maps available in: Art-Conductor-List-Of-Libraries-Motu-Digital-Performer-Articulation-Maps.json
+📂 Full library list for Studio One Sound Variations: Art-Conductor-List-Of-Libraries-Presonus-Studio-One-Sound-Variations.json
+📂 Full library list for Cubase Expression Maps: Art-Conductor-List-Of-Libraries-Steinberg-Cubase-Expression-Maps.json
+📂 Full library list for Dorico Expression Maps available in: Art-Conductor-List-Of-Libraries-Steinberg-Dorico-Expression-Maps.json
+📂 Full library list for Nuendo Expression Maps available in: Art-Conductor-List-Of-Libraries-Steinberg-Nuendo-Expression-Maps.json
+
 
 A readable list of all supported libraries can be found here:
 https://support.babylonwaves.com/overview/which-libraries-are-supported
